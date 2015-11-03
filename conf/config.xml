@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<config >
+    <options >
+        <url > http:
+            //www.jxnu.edu.cn < /url >
+        <depth > 1 < /depth >
+        <thread > 10 < /thread >
+        <debug > False < /debug >
+        <version > 1.0.1 < /version >
+    < / options >
+< / config >

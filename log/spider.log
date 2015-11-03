@@ -1,0 +1,589 @@
+Sun, 03 May 2015 23:02:27 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:02:27 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:02:27 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:02:27 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:02:27 threads.py[line:41] INFO WorkerThread:http://www.sina.com.cn
+Sun, 03 May 2015 23:02:27 threads.py[line:47] INFO WorkerThread:http://www.sina.com.cn
+Sun, 03 May 2015 23:02:28 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:02:28 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:02:28 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:02:28 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:02:28 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:02:28 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:02:48 spider.py[line:68] INFO spider_conf normal loading
+Sun, 03 May 2015 23:02:48 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:02:48 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:02:48 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:02:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:02:48 threads.py[line:41] INFO WorkerThread:http://www.sina.com.cn
+Sun, 03 May 2015 23:02:48 threads.py[line:47] INFO WorkerThread:http://www.sina.com.cn
+Sun, 03 May 2015 23:02:50 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:02:50 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:02:50 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:02:50 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:02:50 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:02:50 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:05:52 spider.py[line:68] INFO spider_conf normal loading
+Sun, 03 May 2015 23:05:52 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:05:52 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:05:52 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:05:52 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:05:52 threads.py[line:41] INFO WorkerThread:http://www.sina.com.cn
+Sun, 03 May 2015 23:05:52 threads.py[line:47] INFO WorkerThread:http://www.sina.com.cn
+Sun, 03 May 2015 23:05:53 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:05:53 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:05:53 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:05:53 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:05:53 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:05:53 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:06:06 spider.py[line:68] INFO spider_conf normal loading
+Sun, 03 May 2015 23:06:06 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:06:06 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:06:06 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:06:06 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:06 threads.py[line:41] INFO WorkerThread:http://www.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:06 threads.py[line:47] INFO WorkerThread:http://www.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:06 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:06:06 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:06:07 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:06:07 crawler.py[line:46] INFO current depth : 2
+Sun, 03 May 2015 23:06:07 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://yhjt.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://yhjt.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://ecampus.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://ecampus.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://oa.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://oa.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://www.macromedia.com/go/getflashplayer
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://www.macromedia.com/go/getflashplayer
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://mail.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://mail.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://xxgk.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://xxgk.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://www.w3.org/1999/xhtml
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://www.w3.org/1999/xhtml
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e6/1e/info58910.htm
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e6/1e/info58910.htm
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://jwc.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://jwc.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://219.229.242.67/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://219.229.242.67/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://graduate.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://graduate.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e5/c8/info58824.htm
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e5/c8/info58824.htm
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://117.40.91.39/wzba_search.asp
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://117.40.91.39/wzba_search.asp
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://www.jxnu.edu.cn/s/2/t/690/p/12/list.htm
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://www.jxnu.edu.cn/s/2/t/690/p/12/list.htm
+Sun, 03 May 2015 23:06:07 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:07 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e5/fa/info58874.htm
+Sun, 03 May 2015 23:06:07 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e5/fa/info58874.htm
+Sun, 03 May 2015 23:06:07 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:06:27 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:06:27 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:27 threads.py[line:41] INFO WorkerThread:http://newsvod.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:27 threads.py[line:47] INFO WorkerThread:http://newsvod.jxnu.edu.cn/
+Sun, 03 May 2015 23:06:27 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:06:27 threads.py[line:41] INFO WorkerThread:http://117.40.91.39
+Sun, 03 May 2015 23:06:27 threads.py[line:47] INFO WorkerThread:http://117.40.91.39
+Sun, 03 May 2015 23:06:57 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:06:58 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:06:58 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:07:01 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:07:01 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:07:01 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:07:01 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:08:47 spider.py[line:68] INFO spider_conf normal loading
+Sun, 03 May 2015 23:08:47 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:08:47 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:08:47 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:08:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:08:47 threads.py[line:41] INFO WorkerThread:http://www.sina.com.cn/
+Sun, 03 May 2015 23:08:47 threads.py[line:47] INFO WorkerThread:http://www.sina.com.cn/
+Sun, 03 May 2015 23:08:49 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:08:49 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:08:49 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:08:49 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:08:49 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:08:49 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:09:28 spider.py[line:68] INFO spider_conf normal loading
+Sun, 03 May 2015 23:09:28 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:09:28 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:09:28 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:09:28 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:09:28 threads.py[line:41] INFO WorkerThread:http://www.sina.com.cn/
+Sun, 03 May 2015 23:09:28 threads.py[line:47] INFO WorkerThread:http://www.sina.com.cn/
+Sun, 03 May 2015 23:09:30 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:09:30 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:09:30 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:09:30 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:09:30 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:09:30 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:09:45 spider.py[line:68] INFO spider_conf normal loading
+Sun, 03 May 2015 23:09:45 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:09:45 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:09:45 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:09:45 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:09:45 threads.py[line:41] INFO WorkerThread:http://www.sina.com.cn/
+Sun, 03 May 2015 23:09:45 threads.py[line:47] INFO WorkerThread:http://www.sina.com.cn/
+Sun, 03 May 2015 23:09:45 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:09:45 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:09:46 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:09:46 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:09:46 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:09:46 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:12:19 spider.py[line:68] INFO spider_conf normal loading
+Sun, 03 May 2015 23:12:19 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:12:19 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:12:19 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://www.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://www.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:12:19 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:12:19 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:12:19 crawler.py[line:46] INFO current depth : 2
+Sun, 03 May 2015 23:12:19 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://yhjt.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://yhjt.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://ecampus.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://ecampus.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://oa.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://oa.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://www.macromedia.com/go/getflashplayer
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://www.macromedia.com/go/getflashplayer
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://mail.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://mail.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://xxgk.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://xxgk.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://www.w3.org/1999/xhtml
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://www.w3.org/1999/xhtml
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e6/1e/info58910.htm
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e6/1e/info58910.htm
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://jwc.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://jwc.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://219.229.242.67/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://219.229.242.67/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://graduate.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://graduate.jxnu.edu.cn/
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e5/c8/info58824.htm
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e5/c8/info58824.htm
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://117.40.91.39/wzba_search.asp
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://117.40.91.39/wzba_search.asp
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://www.jxnu.edu.cn/s/2/t/690/p/12/list.htm
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://www.jxnu.edu.cn/s/2/t/690/p/12/list.htm
+Sun, 03 May 2015 23:12:19 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:12:19 threads.py[line:41] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e5/fa/info58874.htm
+Sun, 03 May 2015 23:12:19 threads.py[line:47] INFO WorkerThread:http://news.jxnu.edu.cn/s/271/t/910/e5/fa/info58874.htm
+Sun, 03 May 2015 23:12:19 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:12:49 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:12:50 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:12:50 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:12:50 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:12:53 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:12:53 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:12:53 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:12:53 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:17:47 spider.py[line:68] INFO spider_conf normal loading
+Sun, 03 May 2015 23:17:47 crawler.py[line:34] INFO crawler normal loading.
+Sun, 03 May 2015 23:17:47 crawler.py[line:46] INFO current depth : 1
+Sun, 03 May 2015 23:17:47 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:http://www.baidu.com
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:http://www.baidu.com
+Sun, 03 May 2015 23:17:47 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:17:47 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:17:47 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:17:47 crawler.py[line:46] INFO current depth : 2
+Sun, 03 May 2015 23:17:47 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:http://map.baidu.com
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:http://map.baidu.com
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&word=&fr=wwwt
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&word=&fr=wwwt
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/baiduia/baiduia_b45d552b.js
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/baiduia/baiduia_b45d552b.js
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://sp2.baidu.com/9_QWsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://sp2.baidu.com/9_QWsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/8aQDcjqpAAV3otqbppnN2DJv
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/8aQDcjqpAAV3otqbppnN2DJv
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:http://www.baidu.com/gaoji/preferences.html
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:http://www.baidu.com/gaoji/preferences.html
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://ss0.baidu.com/73t1bjeh1BF3odCf
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://ss0.baidu.com/73t1bjeh1BF3odCf
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:http://map.baidu.com/m?word=&fr=ps01000
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:http://map.baidu.com/m?word=&fr=ps01000
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://ss0.baidu.com/73x1bjeh1BF3odCf
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://ss0.baidu.com/73x1bjeh1BF3odCf
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:http://music.baidu.com/search?fr=ps&ie=utf-8&key=
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:http://music.baidu.com/search?fr=ps&ie=utf-8&key=
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/5bU_dTmfKgQFm2e88IuM_a
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/5bU_dTmfKgQFm2e88IuM_a
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/9foIbT3kAMgDnd_
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/9foIbT3kAMgDnd_
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/-KZ1aD0a2gU2pMbgoY3K
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/-KZ1aD0a2gU2pMbgoY3K
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:http://tieba.baidu.com/f?kw=&fr=wwwt
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:http://tieba.baidu.com/f?kw=&fr=wwwt
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://sp3.baidu.com/6qUDsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://sp3.baidu.com/6qUDsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/8bg4cTva2gU2pMbgoY3K
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/8bg4cTva2gU2pMbgoY3K
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:https://ss1.bdstatic.com/-0U0bXSm1A5BphGlnYG
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:https://ss1.bdstatic.com/-0U0bXSm1A5BphGlnYG
+Sun, 03 May 2015 23:17:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:47 threads.py[line:41] INFO WorkerThread:http://news.baidu.com/ns?cl=2&rn=20&tn=news&word=
+Sun, 03 May 2015 23:17:47 threads.py[line:47] INFO WorkerThread:http://news.baidu.com/ns?cl=2&rn=20&tn=news&word=
+Sun, 03 May 2015 23:17:48 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:48 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:48 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:48 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:48 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:48 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:48 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:48 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/7LAWfjuc_wUI8t7jm9iCKT-xh_
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/7LAWfjuc_wUI8t7jm9iCKT-xh_
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:http://home.baidu.com
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:http://home.baidu.com
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://sp2.baidu.com/9_Q4sjOpB1gCo2Kml5_Y_D3
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://sp2.baidu.com/9_Q4sjOpB1gCo2Kml5_Y_D3
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:http://tieba.baidu.com
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:http://tieba.baidu.com
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:http://www.baidu.com/more/
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:http://www.baidu.com/more/
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://passport.baidu.com/v2/?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2F
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://passport.baidu.com/v2/?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2F
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://sp1.baidu.com/8qUJcD3n0sgCo2Kml5_Y_D3
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://sp1.baidu.com/8qUJcD3n0sgCo2Kml5_Y_D3
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://ss0.bdstatic.com/9uN1bjq8AAUYm2zgoY3K
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://ss0.bdstatic.com/9uN1bjq8AAUYm2zgoY3K
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/8LUYsjW91Qh3otqbppnN2DJv
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/8LUYsjW91Qh3otqbppnN2DJv
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://ss0.bdstatic.com/5a21bjqh_Q23odCf
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://ss0.bdstatic.com/5a21bjqh_Q23odCf
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/9_Q4sjW91Qh3otqbppnN2DJv
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/9_Q4sjW91Qh3otqbppnN2DJv
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/yLsHczq6KgQFm2e88IuM_a
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/yLsHczq6KgQFm2e88IuM_a
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:http://wenku.baidu.com/search?word=&lm=0&od=0&ie=utf-8
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:http://wenku.baidu.com/search?word=&lm=0&od=0&ie=utf-8
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:http://news.baidu.com
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:http://news.baidu.com
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://sp3.baidu.com/7bM1dzeaKgQFm2e88IuM_a
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://sp3.baidu.com/7bM1dzeaKgQFm2e88IuM_a
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&ie=utf-8&word=
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&ie=utf-8&word=
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:http://image.baidu.com/i?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:http://image.baidu.com/i?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:http://www.hao123.com
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:http://www.hao123.com
+Sun, 03 May 2015 23:17:48 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:17:48 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/5foZdDe71MgCo2Kml5_Y_D3
+Sun, 03 May 2015 23:17:48 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/5foZdDe71MgCo2Kml5_Y_D3
+Sun, 03 May 2015 23:17:49 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:49 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:49 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:49 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:49 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:49 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:17:49 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_f2fb5194.js
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_f2fb5194.js
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/74oIbT3kAMgDnd_
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/74oIbT3kAMgDnd_
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://ss1.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://ss1.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:http://ir.baidu.com
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:http://ir.baidu.com
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://sp2.baidu.com/yLMWfHSm2Q5IlBGlnYG
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://sp2.baidu.com/yLMWfHSm2Q5IlBGlnYG
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:http://jianyi.baidu.com/
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:http://jianyi.baidu.com/
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://sp3.baidu.com/-0U_dTmfKgQFm2e88IuM_a
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://sp3.baidu.com/-0U_dTmfKgQFm2e88IuM_a
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://sp2.baidu.com/-uV1bjeh1BF3odCf
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://sp2.baidu.com/-uV1bjeh1BF3odCf
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://sp0.baidu.com/5bU_dTmfKgQFm2e88IuM_a/w.gif
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://sp0.baidu.com/5bU_dTmfKgQFm2e88IuM_a/w.gif
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_3b60d166.js
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_3b60d166.js
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://ss0.baidu.com/73F1bjeh1BF3odCf
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://ss0.baidu.com/73F1bjeh1BF3odCf
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:http://v.baidu.com
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:http://v.baidu.com
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:http://www.baidu.com/duty/
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:http://www.baidu.com/duty/
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://sp1.baidu.com/6LMFsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://sp1.baidu.com/6LMFsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:18:09 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:18:09 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:09 threads.py[line:41] INFO WorkerThread:https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:18:09 threads.py[line:47] INFO WorkerThread:https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq
+Sun, 03 May 2015 23:18:09 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:18:09 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:18:09 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:18:10 threads.py[line:62] INFO WorkerThread Error
+Sun, 03 May 2015 23:18:15 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:18:15 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:18:15 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:18:15 crawler.py[line:46] INFO current depth : 3
+Sun, 03 May 2015 23:18:15 crawler.py[line:62] INFO crawler_download_url normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://g.hiphotos.baidu.com/video/pic/item/8644ebf81a4c510ffd46f35a6559252dd52aa5eb.gif
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://g.hiphotos.baidu.com/video/pic/item/8644ebf81a4c510ffd46f35a6559252dd52aa5eb.gif
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://img.baidu.com/img/iknow/wenku/xsc130X83.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://img.baidu.com/img/iknow/wenku/xsc130X83.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://www.juyouqu.com/qu/3192570
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://www.juyouqu.com/qu/3192570
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://mil.news.baidu.com/n?cmd=1&class=taihaijj
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://mil.news.baidu.com/n?cmd=1&class=taihaijj
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://cms.yhd.com/cmsPage/show.do?pageId=2825&amp;tracker_u=10444906
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://cms.yhd.com/cmsPage/show.do?pageId=2825&amp;tracker_u=10444906
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://tejia.hao123.com/nvzhuang/?tn=bd
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://tejia.hao123.com/nvzhuang/?tn=bd
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://tb1.bdstatic.com/tb/r/image/2015-04-30/a46580950f9658172fde2439fb756c69.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://tb1.bdstatic.com/tb/r/image/2015-04-30/a46580950f9658172fde2439fb756c69.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://www.bankcomm.com/
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://www.bankcomm.com/
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://wenku.baidu.com/wenkuverify
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://wenku.baidu.com/wenkuverify
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://a.hiphotos.baidu.com/video/pic/item/b219ebc4b74543a91e59928c1b178a82b901142b.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://a.hiphotos.baidu.com/video/pic/item/b219ebc4b74543a91e59928c1b178a82b901142b.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://www.baidu.com/s?word=%E6%AF%92%E8%9B%87%E5%92%AC%E4%B8%8D%E6%AD%BB%E7%9A%84%E5%8A%A8%E7%89%A9+%E6%83%B3%E5%90%83%E7%9C%BC%E9%95%9C%E8%9B%87%E5%B0%B1%E5%8E%BB%E6%8A%93&amp;tn=sitehao123_7_pg&amp;ie=utf-8
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://www.baidu.com/s?word=%E6%AF%92%E8%9B%87%E5%92%AC%E4%B8%8D%E6%AD%BB%E7%9A%84%E5%8A%A8%E7%89%A9+%E6%83%B3%E5%90%83%E7%9C%BC%E9%95%9C%E8%9B%87%E5%B0%B1%E5%8E%BB%E6%8A%93&amp;tn=sitehao123_7_pg&amp;ie=utf-8
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://www.gov.cn/xinwen/2015-05/03/content_2856435.htm
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://www.gov.cn/xinwen/2015-05/03/content_2856435.htm
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://s0.hao123img.com/res/r/image/2015-01-06/064c257d3d32b9574a48a080df9f950c.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://s0.hao123img.com/res/r/image/2015-01-06/064c257d3d32b9574a48a080df9f950c.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://tieba.baidu.com/p/3178646589
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://tieba.baidu.com/p/3178646589
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://baitong.baidu.com
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://baitong.baidu.com
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://s0.hao123img.com/res/r/image/2015-04-14/8dc848e2293d12679fccdb187bcde27d.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://s0.hao123img.com/res/r/image/2015-04-14/8dc848e2293d12679fccdb187bcde27d.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://game.hao123.com/wangyou/zq/lol
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://game.hao123.com/wangyou/zq/lol
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://tousu.baidu.com/music/add
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://tousu.baidu.com/music/add
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://cms.yhd.com/cmsPage/show.do?pageId=35496&amp;tracker_u=10444906
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://cms.yhd.com/cmsPage/show.do?pageId=35496&amp;tracker_u=10444906
+Sun, 03 May 2015 23:18:15 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:15 threads.py[line:41] INFO WorkerThread:http://b.hiphotos.baidu.com/video/pic/item/9e3df8dcd100baa1ebbdebe44210b912c9fc2edf.jpg
+Sun, 03 May 2015 23:18:15 threads.py[line:47] INFO WorkerThread:http://b.hiphotos.baidu.com/video/pic/item/9e3df8dcd100baa1ebbdebe44210b912c9fc2edf.jpg
+Sun, 03 May 2015 23:18:16 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:16 threads.py[line:41] INFO WorkerThread:http://tieba.baidu.com/p/3178638487
+Sun, 03 May 2015 23:18:16 threads.py[line:47] INFO WorkerThread:http://tieba.baidu.com/p/3178638487
+Sun, 03 May 2015 23:18:16 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:16 threads.py[line:41] INFO WorkerThread:http://pe.hexun.com/2015-05-03/175500879.html
+Sun, 03 May 2015 23:18:16 threads.py[line:47] INFO WorkerThread:http://pe.hexun.com/2015-05-03/175500879.html
+Sun, 03 May 2015 23:18:16 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:16 threads.py[line:41] INFO WorkerThread:http://image.baidu.com/channel?c=%E5%AE%B6%E5%B1%85&amp;t=%E7%83%AD%E9%97%A8%E6%8E%A8%E8%8D%90&amp;s=20&amp;t3=%E5%85%A8%E9%83%A8
+Sun, 03 May 2015 23:18:16 threads.py[line:47] INFO WorkerThread:http://image.baidu.com/channel?c=%E5%AE%B6%E5%B1%85&amp;t=%E7%83%AD%E9%97%A8%E6%8E%A8%E8%8D%90&amp;s=20&amp;t3=%E5%85%A8%E9%83%A8
+Sun, 03 May 2015 23:18:16 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:16 threads.py[line:41] INFO WorkerThread:http://s0.hao123img.com/res/r/image/2015-03-04/7e826e78e58695fbcf1fb4fd57c709dc.gif
+Sun, 03 May 2015 23:18:16 threads.py[line:47] INFO WorkerThread:http://s0.hao123img.com/res/r/image/2015-03-04/7e826e78e58695fbcf1fb4fd57c709dc.gif
+Sun, 03 May 2015 23:18:16 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:16 threads.py[line:41] INFO WorkerThread:http://www.hao123.com/mobile
+Sun, 03 May 2015 23:18:16 threads.py[line:47] INFO WorkerThread:http://www.hao123.com/mobile
+Sun, 03 May 2015 23:18:16 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:16 threads.py[line:41] INFO WorkerThread:http://www.js.xinhuanet.com/2015-05/04/c_1115162450.htm
+Sun, 03 May 2015 23:18:16 threads.py[line:47] INFO WorkerThread:http://www.js.xinhuanet.com/2015-05/04/c_1115162450.htm
+Sun, 03 May 2015 23:18:16 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:16 threads.py[line:41] INFO WorkerThread:https://passport.baidu.com/v2/?reg&regType=1&tpl=ma
+Sun, 03 May 2015 23:18:16 threads.py[line:47] INFO WorkerThread:https://passport.baidu.com/v2/?reg&regType=1&tpl=ma
+Sun, 03 May 2015 23:18:16 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:16 threads.py[line:41] INFO WorkerThread:http://img.baidu.com/img/iknow/wenku/13083shzq.jpg
+Sun, 03 May 2015 23:18:16 threads.py[line:47] INFO WorkerThread:http://img.baidu.com/img/iknow/wenku/13083shzq.jpg
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://b.hiphotos.baidu.com/video/pic/item/2cf5e0fe9925bc31bab19bcc5bdf8db1ca1370f2.gif
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://b.hiphotos.baidu.com/video/pic/item/2cf5e0fe9925bc31bab19bcc5bdf8db1ca1370f2.gif
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://www.hao123.com/sitemap/
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://www.hao123.com/sitemap/
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://img.baidu.com/img/iknow/wenku/130x83xszqnew.jpg
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://img.baidu.com/img/iknow/wenku/130x83xszqnew.jpg
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://hiphotos.baidu.com/doc/pic/item/9f510fb30f2442a7987e6e7cd043ad4bd01302f2.jpg
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://hiphotos.baidu.com/doc/pic/item/9f510fb30f2442a7987e6e7cd043ad4bd01302f2.jpg
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://newsalert.baidu.com/na?cmd=0
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://newsalert.baidu.com/na?cmd=0
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://hiphotos.baidu.com/baidu/pic/item/242dd42a2834349bf74200f2ccea15ce36d3be05.jpg
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://hiphotos.baidu.com/baidu/pic/item/242dd42a2834349bf74200f2ccea15ce36d3be05.jpg
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://d.hiphotos.baidu.com/video/pic/item/d1a20cf431adcbef08e5bb52a9af2edda2cc9f95.gif
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://d.hiphotos.baidu.com/video/pic/item/d1a20cf431adcbef08e5bb52a9af2edda2cc9f95.gif
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://tieba.baidu.com/tb/zt/adsense/wangmeng/?page=normal&amp;tpl=normal&amp;id=1017331
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://tieba.baidu.com/tb/zt/adsense/wangmeng/?page=normal&amp;tpl=normal&amp;id=1017331
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://app.baidu.com/
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://app.baidu.com/
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://hiphotos.baidu.com/baidu/pic/item/e850352ac65c1038e8725890b1119313b07e8950.gif
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://hiphotos.baidu.com/baidu/pic/item/e850352ac65c1038e8725890b1119313b07e8950.gif
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://img2.bdstatic.com/static/common/widget/ui/hottags/hottags_6e64efb.js
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://img2.bdstatic.com/static/common/widget/ui/hottags/hottags_6e64efb.js
+Sun, 03 May 2015 23:18:17 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:17 threads.py[line:41] INFO WorkerThread:http://tb1.bdstatic.com/tb/%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%85.jpg
+Sun, 03 May 2015 23:18:17 threads.py[line:47] INFO WorkerThread:http://tb1.bdstatic.com/tb/%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%85.jpg
+Sun, 03 May 2015 23:18:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:47 threads.py[line:41] INFO WorkerThread:http://hiphotos.baidu.com/doc/pic/item/b21c8701a18b87d69328fe47060828381f30fd04.jpg
+Sun, 03 May 2015 23:18:47 threads.py[line:47] INFO WorkerThread:http://hiphotos.baidu.com/doc/pic/item/b21c8701a18b87d69328fe47060828381f30fd04.jpg
+Sun, 03 May 2015 23:18:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:47 threads.py[line:41] INFO WorkerThread:http://news.dahe.cn/2015/05-04/104891506.html
+Sun, 03 May 2015 23:18:47 threads.py[line:47] INFO WorkerThread:http://news.dahe.cn/2015/05-04/104891506.html
+Sun, 03 May 2015 23:18:47 threads.py[line:36] INFO WorkerThread normal loading.
+Sun, 03 May 2015 23:18:47 threads.py[line:41] INFO WorkerThread:http://click.union.jd.com/JdClick/?unionId=46775&amp;siteId=012&amp;to=http://jdamii.jd.com/
+Sun, 03 May 2015 23:18:47 threads.py[line:47] INFO WorkerThread:http://click.union.jd.com/JdClick/?unionId=46775&amp;siteId=012&amp;to=http://jdamii.jd.com/
+Sun, 03 May 2015 23:18:48 crawler.py[line:82] INFO crawler_download_url normal quit.
+Sun, 03 May 2015 23:18:48 crawler.py[line:88] INFO crawler_update_url normal loading.
+Sun, 03 May 2015 23:18:48 crawler.py[line:100] INFO crawler_update_url normal quit.
+Sun, 03 May 2015 23:18:48 spider.py[line:85] INFO spider_conf normal finish.
+Sun, 03 May 2015 23:18:48 spider.py[line:107] INFO spider_stop normal finish.
+Sun, 03 May 2015 23:18:48 spider.py[line:234] INFO spider normal stop.
+Sun, 03 May 2015 23:19:19 threads.py[line:62] INFO WorkerThread Error
