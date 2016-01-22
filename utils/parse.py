@@ -11,6 +11,7 @@ def parse(line):
     """
     ret = []
     index, start, end = 0, 0, 0
+    length = len(line)
     while True:
         if line[index] == '"':
             index = index + 1
@@ -22,7 +23,7 @@ def parse(line):
             ret.append(line[start:index])
             start = index + 1
         index = index + 1
-        if index >= len(line):
+        if index >= length:
             break
     return ret
 
