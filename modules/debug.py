@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-####################################################
-##         Author: wenyu1001@126.com              ##
-####################################################
-
+# coding: utf-8
 
 def debug(arg1, *args):
     """
@@ -16,8 +11,3 @@ def debug(arg1, *args):
         list.append(str(arg))
     getstr = ' : '.join(list)
     print getstr
-
-if __name__ == '__main__':
-    debug('debug log')
-    debug('debug log', 22)
-    debug('debug log', 22, debug)

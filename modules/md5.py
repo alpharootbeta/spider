@@ -1,8 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-####################################################
-##         Author: wenyu1001@126.com              ##
-####################################################
+# coding: utf-8
 
 import hashlib
 from debug import debug
@@ -21,6 +18,3 @@ def get_md5_value(value):
     except:
         traceback.print_exc()
     return None
-
-if __name__ == '__main__':
-    debug(get_md5_value("zhangwenyu"))

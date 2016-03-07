@@ -1,8 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-####################################################
-##         Author: wenyu1001@126.com              ##
-####################################################
+# coding: utf-8
 
 import sys
 import Queue
